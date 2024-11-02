@@ -1,0 +1,14 @@
+{
+    "name": "edison",
+   " age": 10,
+   "city": "kigali",
+   "hobies" : ["game", "swiming", "cricket"],
+   "address": {
+    "district": "nyarugenge",
+    "sector": "kiyovu",
+    "date": "2/11/2024"
+   }
+}
+
+
+  

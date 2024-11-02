@@ -1,0 +1,11 @@
+MONGO QUERY API:
+   - CRUD OPERATION
+   - AGGREGATION PIPELINES
+
+   naming conventions:
+   firstName: lower camel case
+   FirstName: PascalCase// upeer camel case
+   firstname: lower camel case
+   first_name: underscore
+
+--RETREIVE: (selection(where) , projection(select col_name ))

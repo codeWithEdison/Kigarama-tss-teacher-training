@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "672601c8ed94dc2107c73bfa"
+  },
+  "name": "ishimwe",
+  "email": "ishimwe@gmail.com",
+  "age": 10
+},
+{
+  "_id": {
+    "$oid": "672601c8ed94dc2107c73bfc"
+  },
+  "email": "me@gmail.com",
+  "name": "my name",
+  "age": 10
+},
+{
+  "_id": {
+    "$oid": "67260a60ed94dc2107c73c00"
+  },
+  "name": "fake1",
+  "age": 30,
+  "city": "gisenyi"
+},
+{
+  "_id": {
+    "$oid": "67260a60ed94dc2107c73c01"
+  },
+  "name": "mwizerwa",
+  "age": 30,
+  "city": "gisenyi"
+},
+{
+  "_id": {
+    "$oid": "67260a60ed94dc2107c73c02"
+  },
+  "name": "fake3",
+  "age": 30,
+  "city": "gisenyi"
+},
+{
+  "_id": {
+    "$oid": "67260c431e34aa0e607bfa47"
+  },
+  "age": 21,
+  "email": "yougman@gmail.com",
+  "name": "young man"
+},
+{
+  "_id": {
+    "$oid": "67260ec7964891f4c2403f8e"
+  },
+  "name": "mihigo",
+  "age": 16
+}]
