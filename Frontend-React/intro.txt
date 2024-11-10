@@ -1,0 +1,21 @@
+React is js libray for building user inteface
+React used to build single page application
+React allows us to create re-usable UI components
+
+different bt frameword and libray 
+
+1. CONTROL INVESION: 
+- Framework: framework provides a "skeleton" and often dictates 
+the structure of your application.  this is sometime called "hollywood prenciple"
+- libray: libray is more fexible and allow us to  to control where
+ and how it's used in the application
+
+ HOW REACT WORKS:
+ - react create virtual DOM in memory
+ - React only change what needs to to be changed
+ create-react-app
+
+ // npm unistall -g create-react-app
+ // npm install -g create-react-app
+
+

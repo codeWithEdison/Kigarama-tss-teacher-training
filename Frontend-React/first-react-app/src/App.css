@@ -1,0 +1,26 @@
+.nav{
+  /* border: 2px solid red;  */
+  background-color: rgb(127, 127, 235); 
+  padding: 8px 0;
+}
+.nav-lists{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.nav-lists li{
+  list-style-type: none;
+  font-weight: bold;
+  font-size: 32px; 
+  color: white;
+}
+button{
+  padding: 0px 30px;     
+  border-radius: 12px; 
+  border: none;
+  cursor: pointer;
+  box-shadow: 0px 0px 20px rgb(255, 255, 255); 
+  background: rgb(10, 10, 105);
+  color: white; 
+  font-size: 24px; 
+}
