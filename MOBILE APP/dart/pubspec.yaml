@@ -1,0 +1,8 @@
+name: dart_overview
+description: a simple dart project 
+
+environment:
+  sdk: '^3.5.0'
+dependencies:
+ http: ^0.13.3
+
